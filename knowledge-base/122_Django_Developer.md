@@ -1,0 +1,40 @@
+# Job Title: Django Developer
+
+## Job ID: 122
+
+## Description
+Desired Experience: Exp: 1 – 3 yrs of experience in Python Django Development.
+
+Qualification: BE/ B Tech/ M Tech/ MCA and any Graduate.
+
+Job Location: Gurgaon, Sector – 66
+
+Working Days: 5 Days Working Monday to Friday
+
+Skills Required : Python/Django (HTML/CSS/Javascript/jquery)
+Responsible for understanding project requirements, and develop the application modules to meet the requirements as provided in the Design Documents.
+Responsible for Unit design and coding.
+Work with developers and architects, to ensure bug free and timely delivery of allocated development tasks.
+Responsible for implementing and following standards and guidelines with coding best practices in mind.
+Provide support for production systems in the form of enhancements, maintenance and minor bug fixes.
+Responsible for conducting proper unit testing.
+Exposure to Python / Django / Java web based application (client-server) development along with database fundamentals.
+Knowledge of WebServices, JSON APIs, Angular JS would be and added advantage.
+Please fill the following details
+
+1) Current CTC
+
+2) Expected CTC
+
+3) Notice Period
+
+4) Current Location
+
+5) Reason of Change
+
+6) Years of Experience
+
+For more details mail your CV at career@destinyhrgroup.com or call us at 7503866196.
+
+---
+Metadata: ID=122, Role=Django Developer

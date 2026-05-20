@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 492
+
+## Description
+mhsi privately held company based rochester hill mi supporting manufacturing program management data management design customer logistics logistics related activity activity include project management design rack container mhsi 's customer include automotive oem automotive tier one 's heavy manufacturing mhsi 's personnel work extension customer mhsi searching full-time full stack web developer strong db background join growing development team position handle creation maintenance web database mobile application role requires candidate able assume full develop duty laravel- based web application experience similar php-based mvc framework highly preferred ideal candidate ha passion programming learning new technology motivated problem-solver self- starter minimum 6 year experience web development field requirement position 3+ year experience lead developer role project using php framework laravel preferred symfony slim mvc-based framework solid skill using html 5 cs 3 bootstrap javascript/jquery development experience sql server t-sql professional effective written oral communication skill good follow-up interface skill self-starter ability multi-task switching multiple project course work day make stand experience access access sql + programming vb macro etc experience version control git svn experience familiarity .net vb experience photoshop wordpress experience design pattern experience package management composer experience objective-c/swift and/or experience interest io android development big plus 's health insurance competitive salary based experience flexible work schedule additional requirement applicant offered job company need physical tested drug part post job offer employment screening process candidate must ability work usa sorry unable sponsor visa time please call regarding position
+
+---
+Metadata: ID=492, Role=Full Stack Developer

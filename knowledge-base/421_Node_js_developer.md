@@ -1,0 +1,17 @@
+# Job Title: Node js developer
+
+## Job ID: 421
+
+## Description
+Location : Ul Cyberpark Kozhikode
+Experience : (3 - 6 years)
+Salary : INR 1,00,000 - 6,00,000 P.A.
+Key Responsibilities:
+Implement Web applications using nodejs and javascript eco system,
+Translate client requirements to application design, and document,
+Translate client requirements to application design, and document,
+Web application low level design, db design, and UX design,
+Web back end development and SaaS application development
+
+---
+Metadata: ID=421, Role=Node js developer

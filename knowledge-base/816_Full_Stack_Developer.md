@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 816
+
+## Description
+u bright health delivering smarter connected healthcare experience affordable health insurance plan exclusive partnership leading health system reshaping people physician achieve better health today bright health provides health insurance individual colorado arizona alabama individual medicare advantage space come join mission making healthcare right together ! responsibility member technology team working design implementation system related health insurance industry working aspect product stack ui api data infrastructure ... truly full stack ! collaborating teammate technical design work estimation implementation new feature contribute continuous improvement team 's productivity culture code quality additionally collaborate directly product manager ux researcher designer define implement solution digital property create responsive website using react redux integrate 3rd party apis system work designer maintain ui kit work cloud-ops team deploy digital property aws multi-environment setup requirement strong javascript skill including front end back end nodejs primary backend language experience writing micro service using python java scala strong experience react redux webpack bootstrap jest/mocha understanding experience database system data modeling rdbms sql understanding experience aws service including ec2 ec s3 lambda experience test-driven development behavior-driven development required nice experience kind cm driven website development experience react native attribute creative thinker passionate innovating space ripe disruption team player adept problem solver 've fun award like great place work modern healthcare forbes etc anything 're group people really dedicated mission healthcare come join growing team !
+
+---
+Metadata: ID=816, Role=Full Stack Developer

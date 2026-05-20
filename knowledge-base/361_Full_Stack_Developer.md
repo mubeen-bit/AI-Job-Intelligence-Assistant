@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 361
+
+## Description
+overview diamanti inc leading innovator container converged infrastructure looking dynamic high performing full stack software engineer based san jose ca headquarters funded top tier venture financing crv dfj gsr goldman sachs along ‘ blue chip ’ management team ; diamanti accelerates container production guaranteed service level consolidates workload simple flexible infrastructure open source portability developer get ondemand access predictable highperformance data service operator get turnkey system manage deploy scale infrastructure container diamanti looking outofthe box thinker risk taker opportunity make impact applying exceptional design & engineering skill help build great business innovative product fun environment responsibility position work customer product management & user experience create ui backend connects ui front end distributed control & management plane providing performant intuitive user interface essential success role talent passion solve challenging problem team environment looking dynamic individual willing push boundary take ownership feature development requirement deep understanding restful apis oo design good understanding ui design pattern ui performance tuning working knowledge nodejs equivalent experience angularjs mvc framework strong c fundamental strong programming skill must proficient one c++ golang java working knowledge orchestration system like kubernetes mesosphere openstack preferred knowledge time series database like influxdb preferred experience early stage startup series a/b huge plus strong written verbal communication skill qualification bachelor ’ degree computer science equivalent experience
+
+---
+Metadata: ID=361, Role=Full Stack Developer

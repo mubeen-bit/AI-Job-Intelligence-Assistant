@@ -1,0 +1,18 @@
+# Job Title: Flutter Developer
+
+## Job ID: 338
+
+## Description
+Responsibilities and Duties:
+
+Experience building and deploying a moderately complex Flutter app
+Translating UI/UX designs into code
+Working of Firebase
+Advanced debugging/testing/optimisation
+Knowledge of location services, maps, and other common Android/IOS libraries
+Experience: 1-3 year (Preferred)
+00-3.00 Years
+Bachelor Of Computer Application (B.C.A), Master in Computer Application (M.C.A), Bachelor Of Technology (B.Tech/B.E)
+
+---
+Metadata: ID=338, Role=Flutter Developer

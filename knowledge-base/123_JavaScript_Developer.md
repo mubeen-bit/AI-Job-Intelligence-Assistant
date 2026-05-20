@@ -1,0 +1,31 @@
+# Job Title: JavaScript Developer
+
+## Job ID: 123
+
+## Description
+About Accenture: Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. We combine unmatched experience and specialized capabilities across more than 40 industries powered by the worlds largest network of Advanced Technology and Intelligent Operations centers. With 506,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com
+Project Role :Application Developer
+Project Role Description :Design, build and configure applications to meet business process and application requirements.
+Management Level :9
+Work Experience :6-8 years
+Work location :Hyderabad
+Must Have Skills :Oracle JavaScript Extension Toolkit (JET)
+Good To Have Skills :No Technology Specialization
+Job Requirements :
+Key Responsibilities : a Adept at creating business process models based on the requirements
+b Adept at mapping industry trends and best practices to the clients unique requirements and processes to determine applicable fit
+c Knowledgeable about the Oracle applications functionality tools templates and method and able to setup the system to meet the desired business process and requirements
+Technical Experience : a Oracle JET HTML5 CSS VBCS Java JDBC XML Web Services DevOps Oracle SQL
+b At least 6 yrs of UI Development experience
+c Proficient in Oracle JET HTML5 CSS3
+d Core Java JDBC Relational DBs exception handling and SOA
+e Experience on SOAP REST services JSON XML based integrations
+Professional Attributes : a Excellent communication interpersonal skills
+b Excellent consulting skills
+c Excellent presentation skills
+Educational Qualification : a Min 15 years full time education
+Additional Information : a Should be able to work in rotational shift
+b Location Flex - Bangalore
+
+---
+Metadata: ID=123, Role=JavaScript Developer

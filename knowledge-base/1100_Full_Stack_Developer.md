@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 1100
+
+## Description
+creative technology team member responsible high-quality delivery range project utilizing skill open stack software engineer role node.js/php focused position many opportunity collaborate .net team build multi-platform solution work collaboratively team member group within organization able work independently understands involve others ask senior support bring understanding fiscal responsibility agency client execute development web software strong focus security performance robustness system leverage experience develop help guide creative technology solution look way enhance/improve quality project delivered add value agency eye client write code-level api documentation well needed project-level user documentation generate project estimate loes play part planning release goal little-to-zero end-user impact need 3-7+ year web development experience php 5.6+ j mysql object-oriented programming design pattern solid strong proficiency relational database concept data modeling one mvc framework symfony 2 laravel preferred http caching methodology good proficiency linux/nix platform vcs bitbucket git subversion etc composer javascript custom written via usage library plugins framework soa n-tier architecture - communication including restful service soap json etc html/css experience following plus build tool phing ant etc micro-services architecture continuous integration/deployment tool jenkins ansible puppet chef etc react/redux role based dallas tx equal opportunity employer qualified applicant receive consideration employment without regard race color religion sex national origin disability status protected veteran status characteristic protected law
+
+---
+Metadata: ID=1100, Role=Full Stack Developer

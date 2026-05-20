@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 1995
+
+## Description
+facebook 's mission give people power build community bring world closer together family apps service 're building different kind company connects billion people around world give way share matter help bring people closer together whether 're creating new product helping small business expand reach people facebook builder heart global team constantly iterating solving problem working together empower people around world build community connect meaningful way together help people build stronger community — 're getting started team create facebook 's product used 1.5 billion+ people around world want build new feature improve existing product like messenger video group news feed search ? want solve unique large scale highly complex technical problem ? facebook seeking experienced full-stack software engineer join product team help build next-generation product help u connect next billion people create new feature billion interaction per day part team ’ working help people connect around globe join u ! position full-time based boston office responsibility full stack web/mobile application development variety language including limited php javascript html etc create consumer product feature using internal programming language hack implement web mobile interface using xhtml cs javascript work closely pm design team define feature specification build next generation product leveraging framework react & react native work closely operation infrastructure build scale back-end service build report interface data feed minimum qualification 6+ year programming experience 6+ year experience relational database sql 6+ year experience web technology javascript xhtml cs preferred qualification b.s m.s computer science related field experience php c++ 6+ year experience mysql
+
+---
+Metadata: ID=1995, Role=Full Stack Developer

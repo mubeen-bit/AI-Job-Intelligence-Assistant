@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 1514
+
+## Description
+seagate technology looking sr full stack web developer join team cupertino ca role working closely team highly skilled software engineer product manager building cutting edge customer facing web application participating early technology research product development actively contributing knowledge web development technique technology diverse platform qualifications/skills 5+ year ' commercial web application development experience expert level proficiency nodejs object oriented programming javascript responsive wed design web fundamental html javsscript cs server network hosting environment aws knowledge one modern javascript framework reactjs angularjs experience bower gulp similar framework development testing experience working ui framework bootstrap experience source control system git solid knowledge web communication architecture i.e rest/rpc/ajax database technology postgresql strong attention detail highly organized ability work well fast-paced professional office environment b 8-10 year experience prefer 5-7 year experience culture focused corporate value -people customer success excellence innovation teamwork openness social responsibility sustained profitability join worldwide team talented collaborative innovative people thrive work environment people share knowledge learn one another ’ find exciting place build career challenge accept challenge go innovation leads…join seagate apply ! seagate technology committed equal opportunity employment welcome application section community irrespective sex marital status religious affiliation age disability veteran status ethnic origin job family engineering professional
+
+---
+Metadata: ID=1514, Role=Full Stack Developer

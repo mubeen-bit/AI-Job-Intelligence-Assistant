@@ -1,0 +1,9 @@
+# Job Title: Database Administrator
+
+## Job ID: 2328
+
+## Description
+lutheran social service mn dynamic social service organization serving child youth family people disability older adult military veteran trustworthiness value strength shared employee recognized community serve offer alive workplace supportive positive fun career challenge energize reward employee consider joining u ! position work primarily streetworks coordinated entry team collaborative administrator provide administrative support streetworks program area account payable budgeting data communication resource coordination purchasing position submit invoice track payment coordinate others recruit utilize intern community volunteer respond request information assist writing editing grant application manage streetworks website online tool resource minimum requirement high school diploma equivalent experience bachelor ’ degree preferred three five year experience working adolescent transition must posse superior computer skill experience microsoft word excel outlook database software demonstrate ability learn additional computer skills/programs necessary valid driver ’ license auto insurance proficient microsoft word excel outlook powerpoint database experience lutheran social service mn equal opportunity affirmative action employer people regardless gender race culture religion ethnicity protected veteran status and/or disability expectation lss/chs employee behave manner free racism discrimination bias harassment individual treated dignity safety respect additional posting information position work primarily streetworks coordinated entry team l employee deeply meaningful work change life opportunity unique gift shine grow abundant balanced life
+
+---
+Metadata: ID=2328, Role=Database Administrator

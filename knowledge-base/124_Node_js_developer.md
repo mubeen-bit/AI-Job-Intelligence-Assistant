@@ -1,0 +1,20 @@
+# Job Title: Node js developer
+
+## Job ID: 124
+
+## Description
+Job Details
+
+NodeJS Developer / Specialist - The Incumbent should have 4+ years of interactive development/research experience. - Adept in writing Object Oriented Javascript. - Hands on experience in Node.JS and good understanding of closures. - Strong experience in client side Javascript MVC frameworks. - Should have a good understanding of the Node internals. - Expert knowledge of server side Javascript (node.js), should be able to handle & deploy code on either HTTP server (Apache or Nginx). - Should have Knowledge to contribute for bug fixing and patches to other node/javascript projects. - Experience in understanding and working on SQL and NoSQL databases. - Should have experience on front-end JavaScript (Backbone.Js, Reactjs, Angular js), Bootstrap, HTML5, CSS3, JQuery Mobile frameworks and technologies. - Strong understanding towards Scrum methodology. - Excellent written, verbal, and presentation skills which foster and develop existing and new cross-functional relationships.
+
+Skills:
+Node.js
+Javascript
+React.js
+AngularJS
+MVC
+Backbone.js
+Send your resume to info@hopescoding.com
+
+---
+Metadata: ID=124, Role=Node js developer

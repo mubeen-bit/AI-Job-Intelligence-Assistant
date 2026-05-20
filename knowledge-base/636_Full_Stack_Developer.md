@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 636
+
+## Description
+redfin revolutionizing $ 75 billion real estate industry use data beautiful software innovative design put customer first every step home-buying selling process get ready dive headfirst award-winning website mobile apps solving complex business problem highly visible customer-centric way value great work collaborative environment join team ! full stack developer owner engagement team ’ responsible growing new redfin business owner sell home directly redfin all-cash offer ’ also help build broad suite tool engage people phase home ownership ’ settled actively looking sell ’ grow diverse expertise ’ working website mobile apps make experience flawless across platform really developer think like end user know 90 done half done build rock-solid code withstand million user hammering least 0-2 year development experience belt comfortable learning new technology tool dream way improve upon status quo vision beautiful user experiences—and new performant way building them—drive decision-making disagree disagree constructively respect everyone else 's opinion idea anything share passion mission radically change way people make one biggest decision life technology use teach website mobile apps built java aws kafka javascript react swift various tool library deploy continuously use intellij bazel git stash offer support resource continue learning brilliant team collaborate office downtown seattle close action commitment career grow company management team ha experience building startup profitable publicly traded company ’ get far responsibility big company time far le stress find 2 person garage startup amazingly smart fun teammate collaborate 'll see fruit labor released web every day 'll share joy hear back customer blogger national medium redfin equal opportunity employer
+
+---
+Metadata: ID=636, Role=Full Stack Developer

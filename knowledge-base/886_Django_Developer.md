@@ -1,0 +1,20 @@
+# Job Title: Django Developer
+
+## Job ID: 886
+
+## Description
+We are looking for Python Developers for Cochin location who can join on an immediate basis. Candidate with Python - Django experience are required. Salary will be based on the current drawn salary.
+
+Job Type: Full-time
+
+Salary: ₹40,000.00 - ₹50,000.00 per month
+
+Experience:
+Django: 6 years (Required)
+Python - Django: 6 years (Required)
+Python: 6 years (Required)
+Education:
+Bachelor's (Required)
+
+---
+Metadata: ID=886, Role=Django Developer

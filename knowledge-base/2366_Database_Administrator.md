@@ -1,0 +1,9 @@
+# Job Title: Database Administrator
+
+## Job ID: 2366
+
+## Description
+job description collaborates consults provides guidance team member u remote location lead dbms related initiative various business lane organization responsible dbms software development life cycle lead proof concept poc ’ evaluate new technology make recommendation lead participates evaluation selection implementation new database management security related tool improve effectiveness security productivity system develops enhances enforces database management system standard best practice guideline ensures quality assurance database deliverable limited conceptual design physical & logical database design data load planning data maintenance retention policy security policy etc engineer automates various task like monitoring capacity planning backup recovery brp solution proposes enhancement improve performance availability reliability system also provides third level technical support internal technical business team design coordinate directs detailed plan installation upgrade dbms product tool qualification 8+ year experience strong dba expertise one rdbms technology combined sharp conceptual analytical thinking ! deep expertise db2 luw working knowledge hadoop related big data technology successful candidate working experience large multi- terabyte system db2 working experience oracle-based system pertains data warehousing environment hands-on advanced trouble-shooting performance tuning knowledge/experience ; understand able define different db2 partitioning strategy ; able provide 3rd 4th level support additional information information kept confidential according eeo guideline
+
+---
+Metadata: ID=2366, Role=Database Administrator

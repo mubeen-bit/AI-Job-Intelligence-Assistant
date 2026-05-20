@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 176
+
+## Description
+full stack engineer goguardian ’ help build optimize maintain infrastructure application support million student educator every day work production code build rich feature set support complex problem education ’ key member engineering team helping embody principle fluidity critical thinking innovation collaboration success factor eagerness impact education mindset embodies putting user first desire learn experiment new technology effective communicator engage debate team quick learner decision maker deliver engineering challenge ability write high quality maintainable code engineering initiative background 3+ year professional experience full-stack engineer extensive experience working web application knowledge least one statically typed compiled language preferably golang experience node front-end javascript framework especially react redux experience web technology including html5 css3 familiarity aws relational database concept nice bonus experience big data tool like hadoop spark familiarity variety database concept nosql column-stores distributed database 'll need communication skill excellent interpersonal oral / written communication skill effectively communicate understand complex idea engineer problem solving stellar troubleshooting skill operate maintain software system production design experience building deploying operating high-scale web application agile ability work effectively agile environment result results-oriented mindset ability self-motivate learn quickly
+
+---
+Metadata: ID=176, Role=Full Stack Developer

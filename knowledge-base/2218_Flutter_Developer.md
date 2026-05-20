@@ -1,0 +1,80 @@
+# Job Title: Flutter Developer
+
+## Job ID: 2218
+
+## Description
+Responsibilities:
+Design and Build sophisticated and highly scalable apps using Flutter.
+Build custom packages in Flutter using the functionalities and APIs already available in native Android and IOS.
+Translate and Build the designs and Wireframes into hight quality reaponsive UI code.
+Write efficient queries for core Data.
+Use of Model-View-Controller ( MVC) and Model-View-ViewModel-Controller (MVVM) as it relates to designing, developing architecture and developing maintainable, testable and functional software that meets product requirements.
+Explore feasible architectures for implementing new features.
+Resolve any problems existing in the system and suggest and add new features in the complete system.
+Suggest space and time efficient Data Structures.
+Follow the best practices while developing the app and also keeping everything structured and well documented.
+Use CI/CD for smooth deployment.
+Document the project and code efficiently.
+Manage the code and project on Git in order to keep in sync with other team members and managers.
+Communicate with the Project Manager regarding status of projects and suggest appropriate deadlines for new functionalities.
+Ensure security guidelines are always followed while developing the app.
+Validate the cloud system to ensure any new changes do not compromise security of the backend server.
+Suggest new features and/or enhancements.
+Consulting with our customer facing representatives about software system design and maintenance.
+Interact with the Clinical Specialists and Product Manager to help understand end-user feedback.
+Maintaining software through product lifecycle including design, development, verification and bug fixes.
+Connect regularly with the Quality Assurance Specialist to deliver stable app.
+Resolve all the bugs reported by the Quality Assurance Specialist in a timely manner.
+Perform time profiling and memory leaks assessment.
+Execute app verification protocol.
+Write tests for the App.
+Following company policies and quality procedures to ensure quality product deliverables.
+Requirements:
+Must Have:
+Flutter: To build cross platform mobile apps for Android, IOS and Web. This should include from making responsive UIs to efficiently query data and also mange states in an optimized mannner.
+Native Android and IOS: To build custom Flutter Packages.
+Firebase: Should have experience with Cloud Firestore, Push Notifications, Cloud Functions and Analytics.
+Adobe XD: Should know how to use Adobe XD to use the design file and use it to build the app.
+Git: To manage and collaborate in different projects with the rest of the team.
+Good To Have:
+Angular
+Bootstrap
+JavaScript
+Job Type: Full-time
+Salary: ₹219,206.00 - ₹1,137,486.00 per year
+Benefits:
+Cell phone reimbursement
+Commuter assistance
+Food allowance
+Paid sick time
+Paid time off
+Work from home
+Schedule:
+Day shift
+Evening shift
+Flexible shift
+Monday to Friday
+Morning shift
+Night shift
+Rotational shift
+Weekends
+Supplemental Pay:
+Commission pay
+Joining bonus
+Overtime pay
+Performance bonus
+Quarterly bonus
+Shift allowance
+Yearly bonus
+Experience:
+flutter: 1 year (Required)
+total work: 1 year (Preferred)
+Education:
+Bachelor's (Preferred)
+Work Remotely:
+Temporarily due to COVID-19
+Speak with the employer
++91 7709311224
+
+---
+Metadata: ID=2218, Role=Flutter Developer

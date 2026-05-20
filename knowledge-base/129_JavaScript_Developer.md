@@ -1,0 +1,50 @@
+# Job Title: JavaScript Developer
+
+## Job ID: 129
+
+## Description
+Web Developer (Javascript & RESTful web services)-20000PUU
+
+Applicants are required to read, write, and speak the following languages: English
+
+Preferred Qualifications
+
+Come join Oracle and help us build the next generation of advanced services for the world's most popular database! We are hiring a team of talented and creative professionals to help us build out our monitoring, management, and provisioning tools for our customer's private database cloud environments. Our web application will utilize the latest technologies to provide a cutting edge, desktop-like user experience in the browser!
+
+For this position, we are seeking a senior web developer to join our growing team in Reston, VA.
+
+Responsibilities:
+Write code in HTML, JavaScript, and CSS that meets the functional specifications
+Expert with one or more modern javascript frameworks like KnockoutJs, BackboneJS, AngularJS or ReactJS
+Collaborate with UI Designer to prototype the user experience during the design phase
+Develop unit tests using JavaScript testing frameworks
+Assist with build and deployment automation scripts
+Design REST APIs
+Troubleshoot and resolve performance issues in the web application
+Qualifications:
+Expert programmer in Javascript
+Front-end web development experience with HTML5, JavaScript, and CSS3
+Understanding of AJAX, object-oriented JavaScript, the DOM and JSON
+Good knowledge of problems and solutions for cross browser compatibility
+Experience with Javascript build tools such as Grunt or Gulp
+Experience writing RESTful web services
+Have spent time as part of an agile development team (preferably Scrum)
+5+ years of industry experience
+BS/MS in computer science or related field
+Detailed Description and Job Requirements
+
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+
+As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.
+
+Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. 7 years of software engineering or related experience.
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+Job: Product Development
+Location: IN-IN,India-Bengaluru
+Job Type: Regular Employee Hire
+Organization: Oracle
+
+---
+Metadata: ID=129, Role=JavaScript Developer

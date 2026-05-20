@@ -1,0 +1,9 @@
+# Job Title: Database Administrator
+
+## Job ID: 1214
+
+## Description
+job summary data entry assistant responsible accuracy integrity donor data position support development team working collaboratively ensure accurate gift entry produce donor acknowledgment provide support development team activity campaign essential duty responsibility complete gift entry ensure quality document accuracy create electronic donor record ensure ongoing day day database administration raiser ’ edge following policy protocol procedure create gift acknowledgment donation ensure timely accurate pledge donation entry tracking provide support donor relation analyst carrying database clean-up project manage electronic process including confirming volunteer hour matching gift compliance notice updating confidential donor information etc work closely accounting team ensure accurate financial record support fund development team donor event team project attend development team meeting activity schedule allows duty assigned qualification education experience required two-year associate degree plus minimum six month data entry experience preferred previous experience fund development environment highly desired ; knowledge fundraising application plus knowledge skill self-starter work independently minimal oversight take initiative ; flexible adaptable self-manager organized ha strong attention detail ; thrives ever changing/fast-paced environment proven oral written communication ability i.e verbal written person and/or telephone ; demonstrated ability work sensitive confidential issue communicate effectively diverse group donor volunteer staff excellent technical computer skill microsoft office including word excel outlook ability develop report analyze data using excel ability coordinate multiple project managing conflicting priority deadline
+
+---
+Metadata: ID=1214, Role=Database Administrator

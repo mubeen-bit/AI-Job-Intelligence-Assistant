@@ -1,0 +1,9 @@
+# Job Title: Full Stack Developer
+
+## Job ID: 141
+
+## Description
+mashgin ’ built self-checkout kiosk us computer vision scan multiple item without barcodes reducing checkout time 10x ’ completely recreating checkout experience industry ’ little innovation decade going combinator 2015 mashgin ha raised $ 10m+ investor like matrix partner kpcb venrock raised series round ready scale ’ looking full-stack developer help u build software run kiosk power extensive infrastructure behind addition building traditional web stack ’ work code interface hardware visual component making sure kiosk extra reliable user experience amazing specialized position - believe end-to-end ownership project ’ contributing many different part codebase multiple language 'll ... working small interdisciplinary team hardware software design build new version product scratch building new feature dreaming new architecture solve problem rethinking recreating existing codebases scale improving maintaining code ’ already production minimum qualification b.s higher computer science equivalent work experience excellent knowledge one language python node.js c++ go c java comfortable learning new language library framework solution call experience building production-ready code ’ used regularly lot people preferred qualification experience fast-paced work environment shipping quality code quickly iterating comfortable deploying managing cloud infrastructure good knowledge algorithm data structure strong proficiency sql database tech offer opportunity work small multidisciplinary team potential break new ground many different industry location minute walk san antonio caltrain station mountain view across street san antonio shopping center food free meal snack office excellent health dental insurance flexible pto policy competitive salary option small rapidly scaling company
+
+---
+Metadata: ID=141, Role=Full Stack Developer
