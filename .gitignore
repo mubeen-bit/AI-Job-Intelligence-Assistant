@@ -9,3 +9,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# dataset
+job_title_des.csv
+knowledge-base/
+knowledge-base-2/
