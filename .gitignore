@@ -5,6 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+
+
+# secret file
 .env
 
 # Virtual environments
@@ -14,3 +17,6 @@ wheels/
 job_title_des.csv
 knowledge-base/
 knowledge-base-2/
+chroma_db/
+vector_db/
+preprocessed_db/
