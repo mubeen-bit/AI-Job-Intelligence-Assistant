@@ -1,9 +1,0 @@
-# Job Title: Full Stack Developer
-
-## Job ID: 1362
-
-## Description
-developer work closely tech lead project management creative team execute pixel perfect front-end build making key decision javascript architecture cs strategy html5/css3 degradation web font social networking integration html best practice responsive design position focus front-end development candidate solid working knowledge ability execute modern web framework bootstrap/foundation & boilerplate along expertise leveraging grunt/gulp build script absolute must lamp/.net full-stack experience highly desirable must-have requirement candidate posse good verbal written communication skill demonstrates talent teamwork collaboration desire excitement explore new technology must description duty • accurately predict development timeline able stick react quickly change ability `` '' project helping identify missing piece solution interactive developer first line defense integrity build - friendly/open working relationship team member vendor partner absolute must understand pace advertising thing move quickly idea fluid need guided home calm professional optimistic manor explain sensitive complicated issue graceful degradation / cross-browser compatibility non-technical team account production ability handle client communication via email phone person necessary minimum requirement • bachelor ’ degree computer science degree preferred comparable experience 3-5 year ’ experience preferably advertising agency expert oo j html css3 mobile best practice social medium integration experienced using less/sass leveraging gulp/grunt build expertise working git individual level team experience integrating cm wordpress drupal sitecore
-
----
-Metadata: ID=1362, Role=Full Stack Developer

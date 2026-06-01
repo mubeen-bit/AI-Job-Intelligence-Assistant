@@ -1,9 +1,0 @@
-# Job Title: Full Stack Developer
-
-## Job ID: 351
-
-## Description
-looking well-rounded full-stack developer work new cutting-edge system provides industry-leading healthcare-focused workflow clinical trial including recruitment study conduct u elligo health research offer platform brings clinical research physician practice accelerating development new pharmaceutical biotechnology medical device product therapy go direct™ approach us state-of-the-art elligo direct™ technology compliantly leverage current electronic health record data applies proprietary prescreening process match protocol-eligible patient participation clinical study mission support health care provider providing personnel procedure technology infrastructure clinical research enabling patient participate research remaining care trusted physician job responsibility role developing testing supporting new system primarily mean stack mongodb angularjs express node j supporting tool component built java postgres redis rabbitmq elasticsearch writing executing unit test code helping qa write integration system test participating sprint planning code review user platform elligo staff physician partner since working alongside user need work understand develop solution problem encounter required skill qualification excited prospect transforming clinical trial workflow experienced 3+ year developing web application fluent javascript node j html cs experienced database preferably including nosql comfortable writing unit test experienced working full engineering qa team excellent debugging troubleshooting excellent meeting deliverable timeline set preferred qualification prefer worked sensitive secure data like health record deployed cloud service provider developed dashboard report practiced agile software development worked responsive web framework written sql query worked java
-
----
-Metadata: ID=351, Role=Full Stack Developer

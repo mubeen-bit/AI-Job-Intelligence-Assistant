@@ -1,9 +1,0 @@
-# Job Title: Java Developer
-
-## Job ID: 940
-
-## Description
-We are looking to hire a senior software developer who can hit the ground running and help us in developing new features for an existing Android application, CSPro Android. CSPro Android has currently more than 50,000+ installs on Google Play and by the end of 2019, the data collection app would have been used in censuses around the world to count a quarter of billion people. The candidate will have opportunity to work on cutting edge technologies as part of this product development team. The candidate will help in development of new UI widgets (capture GPS, photo, multimedia, barcode scanning), mapping integration using Google maps SDK or similar API and other UI enhancements. The candidate must have extensive experience in building Android applications for tablets/phones using Android Studio and Java. Experience with the Android NDK is a plus. Experience in developing web applications using LAMP stack or Java technologies is a big plus. Experience in developing applications using C++ / .NET would be nice to have. Job Type: Full-time Pay: $52.00 - $64.00 per hour Benefits: * 401(k) * 401(k) matching * Dental insurance * Employee assistance program * Health insurance * Life insurance * Paid time off * Professional development assistance * Tuition reimbursement * Vision insurance Schedule: * Monday to Friday Experience: * Mobile developer: 5 years (Preferred) * Android applications: 5 years (Preferred) Work Location: * One location Work Remotely: * Temporarily due to COVID-19
-
----
-Metadata: ID=940, Role=Java Developer

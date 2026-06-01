@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 1780
-
-## Description
-looking meaningful work beautiful bellingham ? professional enjoys working diverse client ? thrive team problem-solving environment ? answered yes question whatcom county interested learning qualification experience system administrator responsible providing technical expertise user support necessary day-to-day operation administration maintenance computer workstation related peripheral application position responsible installing moving maintaining hardware software ; train staff ; oversees consultant ; troubleshoots reported problem equipment software ; make budget projection based departmental need report associate manager visit job description page view detail specific job qualification requires bachelor 's degree computer science information system system engineering related field four 4 year progressively responsible experience directly supporting computer workstation printer mobile device related peripheral software large multi-site organization requires bachelor 's degree field six 6 year progressively responsible experience stated one microsoft certification related whatcom county 's current planned/future computer environment preferred qualification microsoft certification related window desktop operating system microsoft certification related microsoft office two year experience microsoft deployment tool kit and/or microsoft system center configuration manager experience track-it ! help desk software knowledge local government practice procedure background check must meet county criterion security sensitive position includes fingerprinting fbi national database check time hire throughout employment must driving record meet county standard posse valid driver 's license time hire throughout employment must able cross united state canada must pas job related test salary
-
----
-Metadata: ID=1780, Role=Database Administrator

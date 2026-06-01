@@ -1,5 +1,0 @@
-# Full Stack Developer
-
-## Job Description
-
-leslie hindman auctioneer one nation 's leading fastest growing fine art auction house looking add full stack ruby rail software developer chicago office position developer part small growing team including chief technology officer focused building new software platform manage auction business successful candidate responsible aspect development database architecture feature building testing _we 're looking someone ... _ thrives working engineer collaborating big project also comfortable working autonomously get communication transparency key success solves problem flex adapts quickly get excited art design _and someone ha ... _ bachelor 's degree computer science engineering preferred required 3+ year front backend development experience solid knowledge experience ruby rail vue react angular comfortable unix environment experience continuous deployment application experience sql database understanding write raw sql experience rspec testing framework thorough understanding git

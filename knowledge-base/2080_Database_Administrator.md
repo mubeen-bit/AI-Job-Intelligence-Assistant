@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 2080
-
-## Description
-campus administrator help coordinate campus operation communication facility-management well staff congregational support position responsibility primary office manager campus campus team assist campus pastor general operating budget manage campus reception process walk-in ’ delivery visitor manage purchasing facility office supply manage campus upkeep maintenance working facility vendor ensure facility upkeep cleaning maintenance request manage facility scheduling support coordinate campus- project event assigned cp—e.g campus communication campus newsletter website update etc keep calendar updated events/programs—internal / external manage campus process campus central communication primary owner f1 database – ensure remains updated accurate coordinate membership process central ministry assist flow offering & collected monies including safe logistics & weekly count recruit lead volunteer ministry area including safety team duty assigned position qualification strong administrative relational skill highly organized detail-oriented flexible particularly dealing multiple “ moving part ” priority strong communication skill – clear direct personable demonstrated project management skill proactive reliable team player – e.g ask help needed ask question needing clarity experience office management experience recruiting managing volunteer ability manage multiple on-going project ability multi-task high energy strong interpersonal skill positive attitude ability write and/or edit campus communication content ability recruit lead volunteer ability use excel outlook word fellowship one mail chimp ability manage social medium account preferred ... christ may formed others
-
----
-Metadata: ID=2080, Role=Database Administrator

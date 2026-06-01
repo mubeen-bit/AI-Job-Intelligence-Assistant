@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 1660
-
-## Description
-looking next opportunity ? choose parkland discover meaningful job feel like whether work directly patient use talent support care ’ part team ’ providing valuable health service dallas county resident ’ opportunity put skill work support grow advance job field step career make substantial difference patients—and blend culture talent experience exemplary health hospital system parkland ha earned distinction one america ’ best hospital u.s news world report every year since 1994 primary purpose manages administration assigned contractual agreement outside organization affecting operation dallas county hospital district program minimum specification education must bachelor 's degree related field experience must five year experience contract management accounting legal service equivalent education and/or experience may equivalent combination education and/or experience lieu specific education and/or experience stated certification/registration/licensure prefer paralegal certification/licensure recognized agency local state and/or national level skill special ability must knowledge contract law related contract administration must posse excellent organizational skill must detail oriented must proficient word processing spread sheet database management software package must posse excellent verbal written communication skill parkland health hospital system prohibits discrimination based age 40 race color religion sex including pregnancy sexual orientation gender identity gender expression genetic information disability national origin marital status political belief veteran status
-
----
-Metadata: ID=1660, Role=Database Administrator

@@ -1,9 +1,0 @@
-# Job Title: Full Stack Developer
-
-## Job ID: 996
-
-## Description
-mcafee live challenge protecting liberating customer staying ahead bad guy relentless search safe world computing device everywhere delivering mission ha become imperative ha never better time part mcafee ! working new exciting product & service built cutting edge technology want work fun challenging area passionate creative people dedicated protecting end-users enjoy digital life ? answer yes role ! position title front end developer io location santa clara ca key qualification 6+ year experience designing developing advanced application io expert io development implement feature various io security application objective-c /swift bs/ms degree computer science engineering related subject help architect build front-end technology stack io shape architectural product design detail new requirement collaborate teammate across functional discipline ensure quality phase development work closely core technology team platform team balance cross-platform consistency ios-optimizations write review engineering solution document design spec write automated unit test new apis expose solid understanding full mobile development life cycle job type experienced hire shift shift 1 united state america primary location u california santa clara additional location posting statement mcafee prohibits discrimination based race color religion gender national origin age disability veteran status marital status pregnancy gender expression identity sexual orientation legally protected status
-
----
-Metadata: ID=996, Role=Full Stack Developer

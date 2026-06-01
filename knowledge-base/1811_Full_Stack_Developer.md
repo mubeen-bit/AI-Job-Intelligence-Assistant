@@ -1,9 +1,0 @@
-# Job Title: Full Stack Developer
-
-## Job ID: 1811
-
-## Description
-overview fueled dedicated workforce ameresco premier provider energy efficiency renewable technology solution conservation renewable energy generation ameresco employee developed implemented $ 5 billion energy saving solution help customer utilize clean sustainable resource ameresco seeking junior full stack developer familiarity layer mastery many genuine interest software technology includes server network hosting environment ; data modeling ; business logic ; api layer / action layer / mvc ; user interface ; user experience ; understanding customer business need responsibility writing production ready php/ python/javascript code easy deploy support covered test documentation easy integrate service ; writing testing effective mysql / postgresql data manage/store algorithm ; working developer launch deploy new service product-oriented understanding ultimate goal produce great product ; case service failure loss functionality helping operation team restoring service locating problem preventing failure future qualification minimum qualification b degree equivalent preferred qualification knowledge development one php/python/javascript ; knowledge usage database postgresql mysql ; knowledge git version control system interested individual encouraged respond directly ameresco please submit resume compensation requirement directly via http //careers.ameresco.com immediate confidential consideration award-winning industry leader ameresco challenge brightest talented creative individual industry providing environment embrace initiative diversity achievement along comprehensive reward including people-oriented insurance investment incentive plan equal opportunity/affirmative action employer/women/minorities/veteran/disability
-
----
-Metadata: ID=1811, Role=Full Stack Developer

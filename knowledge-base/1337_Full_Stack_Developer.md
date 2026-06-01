@@ -1,9 +1,0 @@
-# Job Title: Full Stack Developer
-
-## Job ID: 1337
-
-## Description
-position description demonstrates up-to-date expertise software engineering applies development execution improvement action plan manages small medium-sized complex team project model compliance company policy procedure support company standard ethic integrity provides support implementation business solution provides support business new existing system troubleshoots business production issue minimum qualification bachelor 's degree computer science related field 4 year experience building scalable ecommerce application mobile software additional preferred qualification company summary walmart ecommerce team rapidly innovating evolve define future state shopping world ’ largest retailer mission help people save money live better help brightest mind technology merchandising marketing supply chain talent reimagining intersection digital physical shopping help achieve mission position summary walmart lab ’ reinventing world ’ leading retail platform leveraging unique strength deliver best customer experience wherever customer shop imagine environment one line code one experiment one idea ha power catapult entire industry towards smarter future better yet imagine power could every day ’ walmart lab tech-empowered people-led ’ team 4000+ software engineer data scientist designer product manager within walmart across world delivering innovation transform customer shop enterprise operates technologist solve complex problem walmart building solution impact hundred million people world ’ largest retailer
-
----
-Metadata: ID=1337, Role=Full Stack Developer

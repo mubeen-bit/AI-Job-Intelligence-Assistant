@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 1943
-
-## Description
-job requirement configure maintain database server process including monitoring system health performance ensure high-levels performance availability security apply data modeling technique ensure development implementation support effort meet integration performance expectation independently analyze solve correct issue real time providing problem resolution end-to-end refine automate regular process track issue document change assist member database system team developer complex query tuning schema refinement perform scheduled maintenance support release deployment activity hour responsible ensuring scheduled job backup etl load item executed correctly ability design create implement new concept quickly ability design create implement new concept quickly ability adapt sudden change priority requirement able multi-task fast-paced environment manage time effectively good communication skill written oral excellent organization skill calm pressure excellent attention detail strong interpersonal skill mature judgment ability communicate technical issue level required education experience bachelor 's degree computer science equivalent work experience understanding potential performance bottleneck good working knowledge sql server database engine including locking transaction concept 6+ year experience sql server experience sql server 2016 2017 strongly preferred experience third party monitoring tool preferred experience t-sql windowing function plus candidate must u citizen security clearance requirement security plus certificate preferred eoe/minorities/females/vet/disabled \- qualified applicant receive consideration employment without regard race color religion sex national origin gender identity disability protected veteran status
-
----
-Metadata: ID=1943, Role=Database Administrator

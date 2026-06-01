@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 2062
-
-## Description
-looking sql server dba / database engineer join 6-person hosting operation team tewksbury run large set distributed service support 24x7 saas application used organization sole proprietor fortune 500 company across globe hosting operation team consists site reliability engineer database engineer deep experience hosting cloud provider like aws ibm cloud ’ built extensive modern devops framework ’ looking add engineer want ’ operate expand vision role responsibility manage sql postgresql server database across multiple software development lifecycle environment configure monitoring tool measure system health ensure high level performance availability security participate development implementation support effort meet db performance expectation analyze solve correct database-related issue real time support service group configuring bulk etl operation author query custom reporting optimize stored procedure continually refine devops automation management database system participate weekly 24x7 rotation support production system perform scheduled maintenance support software deployment activity hour act sme continually improve training documentation capability ops team peer across company 7+ year sql server administration experience required 3+ year postgresql experience experience upgrading database server migrating different sql solution experience backup restores replication strategy knowledge ha dr option sql server working knowledge ssis experience working window server including active directory interest working sql deployment linux excellent written verbal english communication skill flexible team player take initiative ability organize plan work independently
-
----
-Metadata: ID=2062, Role=Database Administrator

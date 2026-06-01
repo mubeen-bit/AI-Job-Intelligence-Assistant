@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 1663
-
-## Description
-primary responsibility require intimate understanding contractual requirement process master service agreement amendment assignment related legal agreement work closely executive level staff sale team field staff accounting department customer identify proposed contract change customer negotiate closely corporate counsel collect process information sent account receivable billing update maintain corporate database maintain system collection verification insurance certificate customer maintain original agreement contract file improve upon existing system process procedure streamline optimize duty assigned skill qualification education bachelor ’ degree equivalent experience minimum 3 year ’ experience contract administration gas compression service business focus solution problem solving oriented ability ass contractual topic issue corporate environment experience preferred public company experience plus strong writing communication skill proficient microsoft office application excel word outlook accuracy organizational skill outstanding attention detail extremely important candidate need focused self-motivated self-directed self-disciplined excellent data entry word processing document/file management skill necessary candidate need resourceful research skill helpful team player attitude working condition dynamic fast-paced demanding environment incumbent spends majority time sitting standing comfortable position ample opportunity move exceptional time management skill ; prioritization managing multiple priority periodic lifting requirement 25 lb travel may required 5 time worked position requires ability read interpret data well capacity professionally effectively communicate orally writing company outside personnel
-
----
-Metadata: ID=1663, Role=Database Administrator

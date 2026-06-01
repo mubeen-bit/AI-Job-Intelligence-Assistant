@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 2216
-
-## Description
-job description ? ace initiative site administrator ace initiative site administrator ha responsibility coordinating comprehensive ace initiative service dr. maya angelou community high school includes working school personnel educare staff insure quality deliverable service student school admin/staff parent essential duty responsibility ace initiative site administration coordinate implement develops ace initiative service communication technology school responsible meet goal set ace initiative grant maintain grant compliance work school admin coordinate daily ace initiative program may include evening weekend activity represents educare school community including student parent staff faculty community partner ha full knowledge ace initiative grant requirement ha full knowledge program service offered school partnership submits monthly calendar daily schedule ace initiative program activity develops ace advisory lesson grade level available student teacher admin school day school support school site coordinator needed educare auxiliary program work community outreach organization bring additional resource service program campus counsel advises student needed help resolve problem may impede participation ace program attends professional development program related meeting attends educare staff meeting duty assigned 2\ record maintenance data collection collect daily attendance record ace initiative program activity daily routine responsible distributing collecting student intake form ace initiative program participant provides weekly report program outcome data additional data required grant keep note program activity success challenge occur distributes collect social emotional learning sel survey student parent teacher salary $ 25 $ 28 hour doe 40 hour week
-
----
-Metadata: ID=2216, Role=Database Administrator

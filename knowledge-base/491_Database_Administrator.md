@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 491
-
-## Description
-looking resent graduate ready start exciting career legal position assist associate general counsel general counsel chief legal officer carrying corporate administrative function connection cim ’ business activity essential function 1\ administrative responsibility set maintain legal file record according established criterion including providing record requested outside counsel cim personnel upload document sharepoint directed associate general counsel general counsel assist tax related form distribution investor assist annual rcp audit various audit requested investor assist various corporate project requested legal dept including limited photocopying arranging binder sending certified registered mail overnight delivery intra-company mail 2\ corporate secretarial responsibility form maintain corporate entity obtain eins prepare organizational chart prepare organizational document maintain database pertinent information related cim ’ corporate entity maintain cim ’ signature block additional insured ’ list complete required annual entity maintenance including statement information corporate minute obtain good standing certificate necessary prepare written consent necessary assist corporate project requested associate general counsel general counsel 3\ reit fund assistance assist preparation circulation reit demand letter prepare quarterly reit dividend consent cim doe accept unsolicited resume agency unsolicited resume received agency considered property cim fee due paid
-
----
-Metadata: ID=491, Role=Database Administrator

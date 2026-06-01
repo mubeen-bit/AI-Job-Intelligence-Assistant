@@ -1,9 +1,0 @@
-# Job Title: Database Administrator
-
-## Job ID: 1960
-
-## Description
-fuelx leading commerce indexing company technology leverage real- time data processing machine learning predict online shopping behavior drive conversion brand use digital advertising platform growing team 're looking people join u mission index world 's commerce data looking database administrator join team ! responsibility track resolve database related incident provide 24x7 call support implement ha solution backup/recovery restore strategy monitor application related job data replication activity setup maintain documentation standard work data engineer application engineer define implement product functionality plan growth change capacity planning perform general technical trouble shooting give consultation development team qualification 3+ year experience nosql database mongodb cassandra elastic etc 3+ year experience relational database mysql oracle 2+ year managing highly available scalable production system fast-paced production environment experience cloud service google cloud aws azure hand-on scripting automate database monitoring/alert build maintenance data integrity good knowledge oltp data warehouse database system schema design good knowledge data integrity sound knowledge database system performance tuning scaling strong linux/unix skill strong communication collaboration skill “ get thing done ” “ ’ look back attitude talk fire build scalable solid solution team player mentality bonus point experience automation tool chef/puppet experience programming language python experience etl processing monitoring good knowledge security management fuelx inc. doe participate e-verify
-
----
-Metadata: ID=1960, Role=Database Administrator

@@ -1,9 +1,0 @@
-# Job Title: Full Stack Developer
-
-## Job ID: 1441
-
-## Description
-position kayak looking engineer part small team focused building consistent corporate bulk transactional email team constantly iterating designing coding way excellence 're building compelling user experience keep product step ahead competition 're engineer want work team similarly talented driven individual 'd love hear requirement b higher computer science related field intermediate java experience java web development plus amazing programming fundamental working knowledge sql hive/hadoop plus solid understanding html cs ability debug issue full-stack environment qualification team player like engage colleague professional personal level someone handle high volume request frequent interruption prioritize work taking infrastructure business need account must excellent technical communication skill kayak mission kayak provide world ’ favorite travel planning tool every query kayak search site show traveler information need find right flight hotel rental car vacation package team always lookout way make travel planning trip management even easier offer variety tool feature kayak trip explore price forecast constantly evolving app facebook messenger slack bot alexa skill related a.i innovation addition kayak manage portfolio metasearch brand including momondo cheapflights swoodoo checkfelix mundi together process two billion consumer query year kayak independently managed subsidiary booking holding inc. benefit perk 4 week paid vacation day birthday generous retirement plan awesome health dental vision insurance plan flexible spending account stupid meeting drink coffee snack game etc flexible hour free massage professional masseuse regular team events/excursions
-
----
-Metadata: ID=1441, Role=Full Stack Developer

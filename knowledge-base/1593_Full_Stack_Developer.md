@@ -1,9 +1,0 @@
-# Job Title: Full Stack Developer
-
-## Job ID: 1593
-
-## Description
-thunder ? thunder new crypto token high throughput confirms transaction second enabled paradigm-shifting blockchain protocol developed leading expert cryptography distributed system accompanied rigorous mathematical analysis security work thunder ? opportunity work world-leading researcher blockchains cryptography distributed system work team exceptionally strong software engineer developing exciting cutting-edge technology opportunity participating adventure building deploying maintaining brand new blockchain across full stack enjoy adventure particularly security perspective position developer advocate / technology evangelist location sunnyvale ca full – time looking dapp developer 's passionate evangelizing new technology responsibility communicate dapp developer regularly online offline publicly write speak thunder represent thunder conference organize workshop thunder technology write great documentation developer developing thunder communicate rest team learned talking developer order inform product/business/technical decision requirement experience dapp development familiarity popular dapp technology solidity/truffle/ metamask strong technical understanding/background blockchain strong verbal written communication skill team player great benefit package employee competitive compensation medical dental vision 55 401k match $ 10000 year 1-year vesting 3 meal day working office $ 10000 referral bonus hire staying 3 month passionate want share vision world would like help achieve mission
-
----
-Metadata: ID=1593, Role=Full Stack Developer
