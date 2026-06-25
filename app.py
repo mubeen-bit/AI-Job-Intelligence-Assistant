@@ -77,7 +77,6 @@ Ask questions about:
 - job descriptions
 - required skills
 - technologies
-- hiring trends
 - career paths
 
 ### Example Questions

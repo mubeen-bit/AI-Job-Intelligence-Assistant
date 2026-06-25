@@ -56,6 +56,31 @@ def calculate_dcg(relevances: list[int], k: int) -> float:
     for i in range(min(k, len(relevances))):
         dcg += relevances[i] / math.log2(i + 2)  # i+2 because rank starts at 1
     return dcg
+# Add to eval.py temporarily
+def debug_missing_keywords(k: int = 20):
+    tests = load_tests()
+    missed = []
+    
+    for test in tests:
+        docs = fetch_context(test.question)
+        full_text = " ".join(d.page_content.lower() for d in docs)
+        
+        for keyword in test.keywords:
+            if keyword.lower() not in full_text:
+                missed.append({
+                    "question": test.question,
+                    "missed_keyword": keyword,
+                    "category": test.category
+                })
+    
+    # Show most commonly missed
+    from collections import Counter
+    counts = Counter(m["missed_keyword"] for m in missed)
+    print("\nMost missed keywords:")
+    for kw, count in counts.most_common(20):
+        print(f"  '{kw}' missed {count} times")
+
+debug_missing_keywords()
 
 
 def calculate_ndcg(keyword: str, retrieved_docs: list, k: int = 10) -> float:
